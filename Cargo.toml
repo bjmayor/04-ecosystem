@@ -28,3 +28,4 @@ tokio = { version = "1.37.0", features = [
 axum = { version = "0.7.5", features = ["ws", "http2", "query", "tracing"] }
 derive_builder = "0.20.0"
 chrono = "0.4.38"
+derive_more = "0.99.17"

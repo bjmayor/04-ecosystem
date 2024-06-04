@@ -8,6 +8,7 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0.81"
+axum = { version = "0.7.5", features = ["macros"] }
 futures = "0.3.30"
 loom = "0.7.2"
 
@@ -54,3 +55,4 @@ tokio-stream = "0.1.15"
 tokio-util = { version = "0.7.11", features = ["codec"] }
 console-subscriber = "0.2.0"
 nanoid = "0.4.0"
+serde_with = "3.8.1"

@@ -30,4 +30,4 @@ Content-Type: application/json
 
 ### url redirect
 
-GET http://127.0.0.1:9876/ZO8lRD
+GET http://127.0.0.1:9876/8iQ6R7
